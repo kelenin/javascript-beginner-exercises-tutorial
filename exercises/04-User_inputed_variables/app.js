@@ -1,10 +1,12 @@
+
+var age=0;
 var age = prompt('What is your age?');
 
-var edad;
+var edad=0;
+edad=10;
 
-var edad=36+10;
 
-console.log(edad);
+console.log(age + edad);
 
 
 
