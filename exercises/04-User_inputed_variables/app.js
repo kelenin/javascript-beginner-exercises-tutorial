@@ -4,7 +4,7 @@ var edad;
 
 var edad=36+10;
 
-console.log(edad)
+console.log(edad);
 
 
 
